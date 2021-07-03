@@ -93,6 +93,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-realme-c3 \
 	treble-overlay-realme-narzo10a \
 	treble-overlay-realme-x2pro \
+	treble-overlay-sam-ims \
 	treble-overlay-samsung-S10pq \
 	treble-overlay-samsung-S10q \
 	treble-overlay-samsung-a30 \
@@ -118,6 +119,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-tecno-camon11 \
 	treble-overlay-telephony-caf-ims \
 	treble-overlay-telephony-mtk-ims \
+	treble-overlay-telephony-sam-ims \
 	treble-overlay-telephony-slsi-ims \
 	treble-overlay-telephony-sprd-ims \
 	treble-overlay-teracube-2e \
